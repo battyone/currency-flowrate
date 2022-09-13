@@ -19,12 +19,12 @@ public class MainClass {
             }
 
             @Override
-            public void unsubscribe(ru.urvanov.luxoft.pricethrottler.PriceProcessor priceProcessor) {
+            public void unsubscribe(ru.xx.pricethrottler.PriceProcessor priceProcessor) {
 
             }
 
             @Override
-            public void subscribe(ru.urvanov.luxoft.pricethrottler.PriceProcessor priceProcessor) {
+            public void subscribe(ru.xx.pricethrottler.PriceProcessor priceProcessor) {
 
             }
         }
@@ -37,12 +37,12 @@ public class MainClass {
             }
 
             @Override
-            public void unsubscribe(ru.urvanov.luxoft.pricethrottler.PriceProcessor priceProcessor) {
+            public void unsubscribe(ru.xx.pricethrottler.PriceProcessor priceProcessor) {
 
             }
 
             @Override
-            public void subscribe(ru.urvanov.luxoft.pricethrottler.PriceProcessor priceProcessor) {
+            public void subscribe(ru.xx.pricethrottler.PriceProcessor priceProcessor) {
 
             }
         }
